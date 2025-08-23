@@ -1,12 +1,12 @@
-# **SmartCall – Gestão Inteligente de Chamados Técnicos**
+# **SystemCall – Gestão Inteligente de Chamados Técnicos**
 
 **Automatize o suporte técnico com triagem por Inteligência Artificial**
 
 --- 
 
-## 📌 Sobre o SmartCall
+## 📌 Sobre o SystemCall
 
-O **SmartCall** é um sistema de **gestão de chamados técnicos** desenvolvido pela Bernardo Tech para otimizar o atendimento em empresas de tecnologia, mobilidade urbana e outros setores que demandam suporte constante. Com uso de **Inteligência Artificial para triagem automática**, o sistema oferece mais agilidade, organização e precisão no tratamento de incidentes.
+O **SystemCall** é um sistema de **gestão de chamados técnicos** desenvolvido pela Bernardo Tech para otimizar o atendimento em empresas de tecnologia, mobilidade urbana e outros setores que demandam suporte constante. Com uso de **Inteligência Artificial para triagem automática**, o sistema oferece mais agilidade, organização e precisão no tratamento de incidentes.
 
 ---
 
@@ -31,7 +31,7 @@ Transformar o atendimento técnico por meio da automação, proporcionando **res
 
 ## 📁 Documentação Técnica
 
-> ⚠️ **Nota:** Este repositório contém os artefatos acadêmicos utilizados para simular o desenvolvimento do sistema SmartCall, incluindo requisitos, diagramas e planejamento ágil.
+> ⚠️ **Nota:** Este repositório contém os artefatos acadêmicos utilizados para simular o desenvolvimento do sistema SystemCall, incluindo requisitos, diagramas e planejamento ágil.
 
 - Levantamento de requisitos
 - Backlog do produto e sprints
@@ -44,14 +44,14 @@ Transformar o atendimento técnico por meio da automação, proporcionando **res
 
 ## 🧠 Contexto do Projeto
 
-O **SmartCall** foi desenvolvido como parte de um projeto acadêmico multidisciplinar (PIM III e IV), simulando um produto de mercado dentro de uma empresa de tecnologia fictícia, **Bernardo Tech**.
+O **SystemCall** foi desenvolvido como parte de um projeto acadêmico multidisciplinar (PIM III e IV), simulando um produto de mercado dentro de uma empresa de tecnologia fictícia, **Bernardo Tech**.
 
 ---
 
 
 ## 🛠️ Tecnologias Utilizadas
 
-- **C#**, **ASP.NET**, **Windows Forms**
+- **C#**, **Python**, **Django**, **ASP.NET**, **Windows Forms**
 - **Android (Mobile)**
 - **MS SQL Server**
 - **Azure AI / OpenAI** para triagem inteligente
@@ -60,14 +60,14 @@ O **SmartCall** foi desenvolvido como parte de um projeto acadêmico multidiscip
 ---
 
 
-© 2024 PagBus Solutions / Bernardo Tech. Todos os direitos reservados.
+© 2024 PagBus Solutions / BernardoTech. Todos os direitos reservados.
 
 ---
 
 
 ## 👤 Autor
 
-- **João Pedro Maximiliano Bernardo** — Desenvolvedor e mantenedor do projeto (projeto individual Bernardo Tech).
+- **João Pedro Maximiliano Bernardo** — Desenvolvedor e mantenedor do projeto (projeto individual BernardoTech).
 
 ---
 
