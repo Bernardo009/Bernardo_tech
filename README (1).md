@@ -51,9 +51,9 @@ O **SystemCall** foi desenvolvido como parte de um projeto acadêmico multidisci
 
 ## 🛠️ Tecnologias Utilizadas
 
-- **C#**, **Python**, **Django**, **ASP.NET**, **Windows Forms**
-- **Android (Mobile)**
-- **MS SQL Server**
+- **Python** https://www.python.org/downloads/
+- **Astah** https://astah.net/products/astah-uml/
+- **Postgree** https://www.postgresql.org/download/
 - **Azure AI / OpenAI** para triagem inteligente
 - **GitHub Projects** para gestão ágil
 
@@ -108,3 +108,11 @@ Siga **GitHub Flow** para desenvolvimento individual:
 - Use descrições claras nos PRs e, quando possível, liste cenários de teste.
 - Não faça *commit* direto em `main`; trabalhe por branches e PRs.
 - Relacione *issues* nos commits/PRs quando existir rastreio de tarefas.
+
+---
+
+## 🎓 Equipe
+
+| Membro        | Função        | GitHub            | LinkedIn         |
+|---------------|---------------|-------------------|------------------|
+| João Pedro M B| Product Owner | [GitHub]()    | [LinkedIn]() |
