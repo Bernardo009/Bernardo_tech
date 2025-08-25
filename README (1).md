@@ -51,9 +51,9 @@ O **SystemCall** foi desenvolvido como parte de um projeto acadêmico multidisci
 
 ## 🛠️ Tecnologias Utilizadas
 
-- **Python** https://www.python.org/downloads/
-- **Astah** https://astah.net/products/astah-uml/
-- **Postgree** https://www.postgresql.org/download/
+- **Python** [Downloads](https://www.python.org/downloads/)
+- **Astah** [Downloads](https://astah.net/products/astah-uml/)
+- **Postgree** [Downloads](https://www.postgresql.org/download/)
 - **Azure AI / OpenAI** para triagem inteligente
 - **GitHub Projects** para gestão ágil
 
