@@ -68,6 +68,7 @@ O **SystemCall** foi desenvolvido como parte de um projeto acadêmico multidisci
 ## 👤 Autor
 
 - **João Pedro Maximiliano Bernardo** — Desenvolvedor e mantenedor do projeto (projeto individual BernardoTech).
+- | [GitHub](https://github.com/Bernardo009/Bernardo_tech)    | [LinkedIn](https://www.linkedin.com/in/jo%C3%A3o-pedro-maximiliano-bernardo-4172a41a7/) |
 
 ---
 
@@ -109,10 +110,3 @@ Siga **GitHub Flow** para desenvolvimento individual:
 - Não faça *commit* direto em `main`; trabalhe por branches e PRs.
 - Relacione *issues* nos commits/PRs quando existir rastreio de tarefas.
 
----
-
-## 🎓 Equipe
-
-| Membro        | Função        | GitHub            | LinkedIn         |
-|---------------|---------------|-------------------|------------------|
-| João Pedro M B| Product Owner | [GitHub]()    | [LinkedIn]() |
