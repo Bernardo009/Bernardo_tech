@@ -1,24 +1,46 @@
-> **Projeto individual — Bernardo Tech**
->
-> Backlog adaptado para o repositório **SmartCall** (gestão de chamados com IA).
+# 🎯 Desafio - Sprint 1
 
-# Backlog do Sistema de Gestão de Chamados
+O desafio desta sprint é construir a base funcional do sistema de chamados. O objetivo é que, ao final da sprint, a aplicação tenha um sistema de autenticação operacional, permitindo que os usuários façam login, criem e visualizem seus próprios chamados.
+
+---
+
+### 📋 User Stories
+
 | Prioridade | User Story | Sprint | Requisito do Cliente | Status |
-| :--- | :--- | :--- | :--- | :--- |
-| **Alta** | Como usuário, quero criar um novo chamado, para que eu possa reportar um problema. | 1 | R01 | ✅ |
-| **Alta** | Como usuário, quero visualizar meus chamados abertos e fechados, para que eu possa acompanhar o status de minhas solicitações. | 1 | R02 | ✅ |
-| **Alta** | Como usuário, quero um sistema de login e autenticação, para que apenas usuários autorizados acessem a plataforma. | 1 | R03 | ✅ |
-| **Alta** | Como agente, quero visualizar a lista de todos os chamados, para que eu possa gerenciar as solicitações. | 2 | R04 | EM ANDAMENTO |
-| **Alta** | Como agente, quero alterar o status de um chamado (ex: de "aberto" para "em andamento"), para que a equipe e o usuário saibam o progresso. | 2 | R05 | EM ANDAMENTO |
-| **Alta** | Como agente, quero atribuir um chamado a outro agente, para que a responsabilidade seja clara. | 2 | R06 | EM ANDAMENTO |
-| **Média** | Como agente, quero que a IA classifique automaticamente o tipo de chamado, para que o encaminhamento seja mais rápido. | 3 | R07 | EM ANDAMENTO |
-| **Média** | Como agente, quero que a IA sugira tags relevantes para um chamado, para facilitar a categorização. | 3 | R08 | EM ANDAMENTO |
-| **Média** | Como usuário, quero que a IA sugira uma resposta com base em uma base de conhecimento, para que eu receba uma solução rápida para meu problema. | 4 | R10 | EM ANDAMENTO |
-| **Baixa** | Como administrador, quero gerenciar os usuários do sistema (adicionar, editar, remover), para ter controle sobre quem acessa a plataforma. | 5 | R11 | EM ANDAMENTO |
-| **Baixa** | Como administrador, quero visualizar um painel de controle com métricas importantes, para monitorar o desempenho. | 5 | R12 | EM ANDAMENTO |
-| **Baixa** | Como agente, quero que o sistema me notifique quando um novo chamado for atribuído a mim, para que eu comece a trabalhar nele rapidamente. | 6 | R13 | EM ANDAMENTO |
-| **Baixa** | Como administrador, quero gerar relatórios sobre o volume de chamados por tipo, para identificar gargalos no processo. | 6 | R14 | EM ANDAMENTO |
-| **Baixa** | Como usuário, quero que o sistema me envie e-mails de notificação sobre o progresso dos meus chamados. | 7 | R15 | EM ANDAMENTO |
-| **Baixa** | Como usuário, quero receber mensagens de erro claras e informativas, para que eu saiba o que fazer em caso de problema. | 7 | R16 | EM ANDAMENTO |
-| **Baixa** | Como desenvolvedor, quero otimizar o desempenho da busca de chamados, para que a interface seja mais rápida. | 8 | R17 | EM ANDAMENTO |
-| **Baixa** | Como desenvolvedor, quero escrever a documentação da API, para que a manutenção futura seja mais fácil. | 8 | R18 | EM ANDAMENTO |
+| :--- | :--- | :--- | :--- |:---:|
+| Alta | Como usuário, quero criar um novo chamado, para que eu possa reportar um problema. | 1 | R01 | ✅ |
+| Alta | Como usuário, quero visualizar meus chamados abertos e fechados, para que eu possa acompanhar o status de minhas solicitações. | 1 | R02 | ✅ |
+| Alta | Como usuário, quero um sistema de login e autenticação, para que apenas usuários autorizados acessem a plataforma. | 1 | R03 | ✅ |
+
+---
+
+### ✔️ DoR - Definition of Ready
+
+Esta é a nossa lista de verificação para garantir que uma história está pronta para ser iniciada.
+
+| Critério | Descrição |
+| :--- | :--- |
+| **Formato da História** | A história está escrita no formato padrão: "Como um <papel>, quero <objetivo> para <benefício>". |
+| **Critérios de Aceitação**| Cada história tem uma lista de condições claras e testáveis que definem o que significa "pronto". |
+| **Independência** | A história pode ser desenvolvida e entregue de forma autônoma, sem depender de outras histórias na mesma Sprint. |
+| **Valor de Negócio** | O propósito e o valor que a história entrega para o usuário final estão claros para toda a equipe. |
+| **Estimativa Acordada** | A equipe de desenvolvimento discutiu e concordou sobre o esforço necessário para implementar a história. |
+| **Dependências Mapeadas**| Qualquer dependência externa (APIs, bibliotecas, etc.) foi identificada e resolvida ou planejada. |
+| **Design da Interface** | Esboços ou protótipos de baixa ou alta fidelidade estão disponíveis para guiar o desenvolvimento da interface. |
+| **Escopo Técnico** | A equipe definiu a abordagem técnica, incluindo quais partes do backend e frontend serão alteradas. |
+
+---
+
+### ✅ DoD - Definition of Done
+
+Esta é a nossa definição de "concluído". Uma história só é considerada entregue quando todos os itens abaixo são atendidos.
+
+| Critério | Descrição |
+| :--- | :--- |
+| **Critérios de Aceitação** | Todos os critérios de aceitação definidos na história foram implementados e validados. |
+| **Testes Automatizados** | Novos testes (unitários/integração) foram criados para a funcionalidade e todos os testes existentes continuam passando. |
+| **Revisão de Código** | O código foi revisado e aprovado por, no mínimo, um outro membro da equipe. |
+| **Testes Manuais**| A funcionalidade foi testada manualmente em um ambiente de homologação para garantir o fluxo do usuário. |
+| **Validação do P.O.** | O Product Owner (Dono do Produto) revisou e aprovou a funcionalidade, confirmando que ela atende ao objetivo proposto. |
+| **Documentação Técnica** | A documentação relevante (ex: README, comentários no código) foi criada ou atualizada. |
+| **Débitos Técnicos**| A implementação não introduziu novos problemas técnicos conhecidos ou não planejados. |
